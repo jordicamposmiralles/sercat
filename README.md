@@ -26,6 +26,8 @@ El repositori, i per tant el web associat Netlify, està organitzat en carpetes:
     
       - **Nom**: ex. _radians-sectors_ (el més curt i distintiu possible)
       
-        - **Llengua**: ex: _-ca_ (sufix per determinar la llengua; s'intenta que siguin el més visual possibles i no associats a cap llengua, si és així no cal que tinguin sufix).
+        - **Tipus**: ex. _video_ (o _memory_, o _gaps_, o _quiz_...)
+
+          - **Llengua**: ex: _-ca_ (sufix per determinar la llengua; s'intenta que siguin el més visual possibles i no associats a cap llengua, si és així no cal que tinguin sufix).
         
-          - **Extensió**: ex: .h5p (sempre incloure com a mínim el codi font de l'activitat) 
+            - **Extensió**: ex: .h5p (sempre incloure com a mínim el codi font de l'activitat) 
